@@ -3,7 +3,7 @@
 ---
 
 # Ресурсы
-[[google/README\|Google interview university]]
+[[README\|Google interview university]]
 [[01 — Полезное/Соревнования\|Соревнования]]
 [[01 — Полезное/Стажировки\|Стажировки]]
 [[01 — Полезное/Обучение\|Обучение]]
