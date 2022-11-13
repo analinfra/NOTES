@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/digital-home/","tags":"gardenEntry"}
+{"dg-publish":true,"dg-home":true,"permalink":"/digital-home/","tags":"gardenEntry","dgPassFrontmatter":true}
 ---
 
 # Ресурсы
-[[README\|Google interview university]]
+[[Google Interview University\|Google interview university]]
 [[01 — Полезное/Соревнования\|Соревнования]]
 [[01 — Полезное/Стажировки\|Стажировки]]
 [[01 — Полезное/Обучение\|Обучение]]
